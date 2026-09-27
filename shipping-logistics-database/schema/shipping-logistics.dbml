@@ -1,0 +1,26 @@
+Table Customer {
+  CustomerID varchar(20) [pk]
+  CustomerName varchar(100)
+  Email varchar(100)
+  PhoneNumber varchar(30)
+  Address varchar(100)
+}
+
+Table Shipment {
+  ShipmentID varchar(20) [pk]
+  CustomerID varchar(20)
+  Origin varchar(100)
+  Destination varchar(100)
+  ShipmentDate date
+  ShipmentStatus varchar(30)
+}
+
+Table AirwayBill {
+  AirwayBillID varchar(20) [pk]
+  ShipmentID varchar(20)
+  AirwayBillNumber varchar(30)
+  IssueDate date
+}
+
+Ref: Shipment.CustomerID > Customer.CustomerID
+Ref: AirwayBill.ShipmentID - Shipment.ShipmentID
