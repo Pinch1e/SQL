@@ -30,18 +30,18 @@ The database contains three relations:
 
 ### SQL
 
-[**View SQL DDL →**](./sql/shipping-logistics.sql)
+[**View SQL DDL →**](https://github.com/Pinch1e/SQL/blob/main/shipping-logistics-database/sql/shipping-logistics.sql)
 
 ### DBML Schema
 
-[**View DBML Schema →**](./schema/shipping-logistics.dbml)
+[**View DBML Schema →**](https://github.com/Pinch1e/SQL/blob/main/shipping-logistics-database/schema/shipping-logistics.dbml)
 
 ## Technologies
 
 - SQL
 - DBML
 - dbdiagram.io
-- 
+  
 ## Purpose
 
 This project was developed as part of my graduate studies in Information Technology and demonstrates relational database design, primary and foreign keys, constraints, and table relationships.
