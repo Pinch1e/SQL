@@ -26,7 +26,7 @@ The database contains three relations:
 
 ### Entity Relationship Diagram
 
-[**View ERD →**](./erd/shipping-logistics-erd.png)
+[**View ERD →**]([./erd/shipping-logistics-erd.png](https://dbdiagram.io/d/6ab8dbb90f25a52d0119ffb3))
 
 ### SQL
 
@@ -54,6 +54,6 @@ shipping-logistics-database/
 - DBML
 - dbdiagram.io
 - 
-Purpose
+## Purpose
 
 This project was developed as part of my graduate studies in Information Technology and demonstrates relational database design, primary and foreign keys, constraints, and table relationships.
