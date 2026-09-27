@@ -36,18 +36,6 @@ The database contains three relations:
 
 [**View DBML Schema →**](./schema/shipping-logistics.dbml)
 
-## Project Structure
-
-```text
-shipping-logistics-database/
-├── README.md
-├── erd/
-│   └── shipping-logistics-erd.png
-├── schema/
-│   └── shipping-logistics.dbml
-└── sql/
-    └── shipping-logistics.sql
-
 ## Technologies
 
 - SQL
