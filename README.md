@@ -26,7 +26,7 @@ The database contains three relations:
 
 ### Entity Relationship Diagram
 
-[**View ERD →**]([./erd/shipping-logistics-erd.png](https://dbdiagram.io/d/6ab8dbb90f25a52d0119ffb3))
+[**View ERD →**](https://dbdiagram.io/d/6ab8dbb90f25a52d0119ffb3)
 
 ### SQL
 
