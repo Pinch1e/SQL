@@ -22,8 +22,38 @@ The database contains three relations:
 - `schema/shipping-logistics.dbml` — DBML database schema
 - `sql/shipping-logistics.sql` — SQL DDL statements
 
+  ## Database Design
+
+### Entity Relationship Diagram
+
+[**View ERD →**](./erd/shipping-logistics-erd.png)
+
+### SQL
+
+[**View SQL DDL →**](./sql/shipping-logistics.sql)
+
+### DBML Schema
+
+[**View DBML Schema →**](./schema/shipping-logistics.dbml)
+
+## Project Structure
+
+```text
+shipping-logistics-database/
+├── README.md
+├── erd/
+│   └── shipping-logistics-erd.png
+├── schema/
+│   └── shipping-logistics.dbml
+└── sql/
+    └── shipping-logistics.sql
+
 ## Technologies
 
 - SQL
 - DBML
 - dbdiagram.io
+- 
+Purpose
+
+This project was developed as part of my graduate studies in Information Technology and demonstrates relational database design, primary and foreign keys, constraints, and table relationships.
